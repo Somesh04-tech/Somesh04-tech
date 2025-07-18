@@ -11,7 +11,7 @@
 - 🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science** at **MGM University**.
 - 💡 I’m exploring full-stack development, especially with **Flask**, **Django**, **HTML/CSS/JS**, and **GitHub Pages**.
 - 💻 I recently started building web apps from scratch using **VS Code + localhost**.
-- 🎯 My goal: **Master backend & frontend development** and maintain a **9.8+ CGPA**.
+- 🎯 My goal: **Master backend & frontend development** and maintain a **8.5+ CGPA**.
 - ✨ Interested in building **aesthetic portfolio sites** and hosting them on **GitHub**.
 - ⚙️ Currently working on: `Prep_Tester` and other academic & personal projects.
 - 🧩 I love exploring how things work—from **OOP in C++** to **AI planning systems** and **encryption algorithms**.
@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=someshshantveerpadsalge&show_icons=true&theme=tokyonight" alt="Somesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Somesh04-tech&show_icons=true&theme=tokyonight" alt="Somesh's GitHub stats" />
 </p>
 
 ---
@@ -42,10 +42,10 @@
 ### 📫 Connect With Me
 
 - 📍 **India**
-- 📧 You can reach me at: `someshpadsalge@gmail.com`
-- 💼 [LinkedIn (optional, let me know if you want to add one)]()
-- 🌐 [Portfolio (let me know if you want to host it or link your GitHub Pages site)]()
+- 📧 You can reach me at: `someshpadsalge1000@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/somesh-padsalge-733724296/)
+- 🌐 [Portfolio](https://somesh04-tech.github.io/My_portfolio/)
 
 ---
 
-*Thanks for stopping by! Feel free to check out my projects or connect for collaboration ideas!* 🚀
+*Thanks for stopping by! Feel free to check out my projects or connect for collaboration ideas!* 🚀 
