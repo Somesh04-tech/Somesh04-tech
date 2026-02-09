@@ -1,1 +1,1 @@
-print("Akash ch")
+print("Akash")
