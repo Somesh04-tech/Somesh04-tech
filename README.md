@@ -1,170 +1,111 @@
-```markdown
 # Hi there 👋, I'm Somesh Padsalge
 
 ### 🤖 B.Tech AI & Data Science Student | AI/ML | Computer Vision | Geospatial AI
 
-I'm a final-year **Artificial Intelligence & Data Science** student at **MGM University**, interested in building practical AI systems and solving real-world problems with machine learning.
-
-My current areas of focus include:
-
-- 🧠 **Machine Learning & Deep Learning**
-- 👁️ **Computer Vision & Object Detection**
-- 🛰️ **Remote Sensing & Satellite Imagery**
-- 🌍 **Geospatial AI**
-- 📡 **SAR / EO Image Analysis**
-- 🔬 **AI Research & Experimentation**
-- 🔐 **Cybersecurity** — Minor
-
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at MGM University
 - 🔐 Minor in **Cybersecurity**
-- 🧠 Interested in **AI/ML, Computer Vision, and Geospatial Intelligence**
-- 🛰️ Working with **SAR and optical/EO satellite imagery**
-- 🔬 Exploring **remote-sensing foundation models and Earth Observation**
-- 👁️ Experience with **YOLO, OpenCV, and image-based machine learning**
-- 🐍 Primarily working with **Python and PyTorch**
-- 🌎 Interested in applying AI to **Earth Observation, disaster detection, and real-world intelligence problems**
-- 🏆 Selected for **AI & Earth Observation hackathon**
-- 💻 I enjoy understanding how systems work and building them from the ground up
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & Computer Vision**
+- 🛰️ Working with **Satellite Imagery, SAR/EO & Geospatial AI**
+- 👁️ Exploring **YOLO, OpenCV & Object Detection**
+- 🧠 Working with **Python, PyTorch & Machine Learning**
+- 🌍 Interested in applying AI to **Remote Sensing and real-world problems**
+- 🏆 Selected for a national-level **AI & Earth Observation Hackathon**
+- 🚀 Always learning, building, and experimenting with new technologies
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ Tech Stack
 
 ### AI / Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Python
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
 
 ### Computer Vision
+- OpenCV
+- YOLO
+- Object Detection
+- Image Processing
+- Image Classification
+- Segmentation
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-
-**Object Detection • Image Processing • Image Classification • Segmentation**
-
-### Remote Sensing & Geospatial AI
-
-**SAR Imagery • Optical / EO Imagery • Satellite Image Processing • Geospatial ML**
-
+### Geospatial & Remote Sensing
+- SAR Imagery
+- Optical / EO Imagery
 - Prithvi EO V2
 - Rasterio
 - Xarray
 - QGIS
-- Multisensor Remote Sensing
+- Geospatial AI
 
-### Development & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**C++ • Java • SQL • Flask • Django • Google Cloud**
-
----
-
-## 🔬 Featured Projects
-
-### 🛰️ AI-Based Flood Detection
-
-**Python • PyTorch • SAR/EO Imagery • Prithvi EO V2 • Geospatial AI**
-
-Developed a geospatial machine-learning pipeline for disaster-zone detection using satellite imagery.
-
-- Worked with **SAR and optical/EO imagery**
-- Explored **Prithvi EO V2** for Earth Observation
-- Engineered multispectral features for model training
-- Worked with geospatial raster data
-- Experimented with model training and optimization
-- Used tools such as **Rasterio, Xarray, and QGIS**
-
-🔗 **[View Project](#)**
+### Development
+- C++
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Django
+- Git & GitHub
 
 ---
+
+## 🚀 Projects
+
+### 🛰️ AI-Based Flood Detection System
+**Python • PyTorch • SAR/EO • Prithvi EO V2 • Geospatial AI**
+
+AI-based disaster detection using satellite imagery and geospatial machine learning.
+
+- Worked with SAR and optical satellite imagery
+- Used Prithvi EO V2 for Earth Observation
+- Built a geospatial ML pipeline
+- Worked with satellite raster data and image preprocessing
 
 ### 👁️ Computer Vision & Object Detection
-
 **Python • YOLO • OpenCV**
 
-Explored YOLO-based object detection for identifying and localizing objects within images.
-
-- Object detection using bounding boxes
-- Image preprocessing
-- Model inference
-- Confidence-based predictions
-- Visualization of detected objects
-
-🔗 **[View Project](#)**
-
----
+Worked with YOLO-based object detection and explored image-based object localization using bounding boxes and confidence scores.
 
 ### 🌍 SAR & Multisensor Image Analysis
+**Python • PyTorch • SAR • Optical/EO**
 
-**Python • PyTorch • SAR • Optical / EO**
-
-Exploring the use of multiple satellite sensors for robust AI-based Earth Observation.
-
-- SAR image preprocessing
-- Optical vs. SAR imagery analysis
-- Multisensor data workflows
-- Machine-learning applications for remote sensing
-
-🔗 **[View Project](#)**
+Exploring the use of SAR and optical imagery for machine-learning-based remote sensing applications.
 
 ---
 
 ## 🏆 Achievements
 
-- 🛰️ **AISEHack – ANRF:** Selected for a national-level AI & Earth Observation hackathon
+- 🛰️ **AISEHack – ANRF:** Selected for a national-level AI & Earth Observation Hackathon
 - 🔐 **NIELIT ISEA Phase III:** Cybersecurity, Cryptography & Cyber Law
-- 🌍 Hands-on experience with **Geospatial AI and Remote Sensing**
-- 🤖 Practical experience with **PyTorch, Computer Vision and ML**
+- 🌍 Experience with **Geospatial AI and Remote Sensing**
+- 🤖 Hands-on experience with **PyTorch and Computer Vision**
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Somesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somesh04-tech&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Somesh04-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh04-tech&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh04-tech&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Connect With Me
 
-<div align="center">
+- 📧 Email: **someshpadsalge1000@gmail.com**
+- 💼 LinkedIn: [Somesh Padsalge]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/somesh-padsalge/)L)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Somesh04-tech&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-
-**AI/ML • Computer Vision • Geospatial AI • Remote Sensing • Research • Open Source**
-
-📧 **Email:** someshpadsalge1000@gmail.com
-
-💼 **LinkedIn:** [Connect with me](#)
-
-🌐 **Portfolio:** [Visit my portfolio](#)
-
----
-
-> *Building, experimenting, and learning one system at a time.* 🚀
-```
+### 🚀 Building with AI. Learning continuously. Solving real-world problems.
