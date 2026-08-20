@@ -92,18 +92,12 @@ Exploring the use of SAR and optical imagery for machine-learning-based remote s
 
 ---
 
-## 📊 GitHub Stats
 
-![Somesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somesh04-tech&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh04-tech&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
 - 📧 Email: **someshpadsalge1000@gmail.com**
-- 💼 LinkedIn: [Somesh Padsalge]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/somesh-padsalge/))
+- 💼 LinkedIn: [Somesh Padsalge]([https://www.linkedin.com/in/somesh-padsalge/])
 ---
 
 ### 🚀 Building with AI. Learning continuously. Solving real-world problems.
