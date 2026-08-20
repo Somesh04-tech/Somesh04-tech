@@ -103,7 +103,7 @@ Exploring the use of SAR and optical imagery for machine-learning-based remote s
 ## 📫 Connect With Me
 
 - 📧 Email: **someshpadsalge1000@gmail.com**
-- 💼 LinkedIn: [Somesh Padsalge]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/somesh-padsalge/)L)
+- 💼 LinkedIn: [Somesh Padsalge]([[YOUR_LINKEDIN_UR](https://www.linkedin.com/in/somesh-padsalge/)])
 
 
 ---
